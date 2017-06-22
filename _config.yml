@@ -1,2 +1,25 @@
 gems:
   - jekyll-seo-tag
+twitter:
+  username: matushatala
+facebook:
+ publisher: 100003306135238
+social:
+  name: Matus Hatala
+  links:
+    - https://twitter.com/matushatala
+    - https://www.facebook.com/hatalamatus
+    - https://www.linkedin.com/in/hatala
+    - https://plus.google.com/+MatusHatala
+author:
+  twitter: matushatala
+image:
+  path: /favicons/image.png
+  height: 482
+  width: 934
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /favicons/image.png
+logo: /favicons/fav.png
